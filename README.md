@@ -1,10 +1,4 @@
 
-🔭 Em Busca do Primeiro emprego na programação
-
-👨🏼‍💻 Futuro Front-End | Fullstack Developer
-
-🌱 Estudante de Análise e Desenvolvimento de Sistemas
-
 💬 Contate-me no email: raphaelsousa18@outlook.pt
 
 😄 Pronomes: ele/dele
